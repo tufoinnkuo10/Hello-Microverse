@@ -1,59 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse 
 
-> One paragraph statement about the project.
+> A project aimed at getting used to git flow, commiting and demanding a pull request and a code review. Other important tools were put into use as well such as linters.
+
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+css and html files were edited and put into use and also they were checked by linters to make sure they are up to the task.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- VS code
 
-## Live Demo
+## Live Link
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://tufoinnkuo10.github.io/Hello-Microverse/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Internet connection
+- github and git
+- 15mb of storage
+
+
 ### Setup
+
+RUN git clone https://github.com/tufoinnkuo10/Hello-Microverse
 
 ### Install
 
+The user does not have to install anything
+
 ### Usage
 
-### Run tests
+Run the index.html
 
-### Deployment
+### Run tests 
 
-
+No test required
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tufoinnkuo10](https://github.com/tufoinnkuo10)
+- Twitter: [@itztenten](https://twitter.com/itztenten)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tufoin-nkuo-3b272320b)
 
 ## 🤝 Contributing
 
@@ -67,9 +66,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-All thanks aswell this project belongs to Microverse.
 
 ## 📝 License
 
